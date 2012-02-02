@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: sopa, black, march, marzo, negro
 Requires at Least: 2.6.0
 Tested Up To: 3.4-alpha
-Stable tag: trunk
+Stable tag: 1.1
 
 Show your support to #MarzoNegro #BlackMarch.
 
